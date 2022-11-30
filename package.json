@@ -1,5 +1,5 @@
 {
-  "name": "Martinha527",
+  "name": "a04-MartinHa527",
   "version": "1.0.0",
   "description": "This assignment will help you stand up a web API using Express and the module that you produced for a03.",
   "main": "server.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/comp426-2022-fall/a04-Martinha527.git"
+    "url": "git+https://github.com/comp426-2022-fall/a04-MartinHa527.git"
   },
-  "author": "Martinha527",
+  "author": "hua8211",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/comp426-2022-fall/a04-Martinha527/issues"
+    "url": "https://github.com/comp426-2022-fall/a04-MartinHa527/issues"
   },
-  "homepage": "https://github.com/comp426-2022-fall/a04-Martinha527#readme",
+  "homepage": "https://github.com/comp426-2022-fall/a04-MartinHa527#readme",
   "dependencies": {
     "express": "^4.18.2",
     "minimist": "^1.2.7"
